@@ -24,6 +24,8 @@
     font-weight: normal;
     margin: 3rem 0;
 }
+
+
 @media(width>900px){
     .hero{
         background-image: url(../images/The-Bugatti-Divo-Key-Facts-and-Figures.webp);
