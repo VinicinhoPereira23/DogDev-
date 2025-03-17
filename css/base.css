@@ -49,3 +49,7 @@ body{
 .button:hover, .button2:hover{
     opacity: 0.8;
 }
+
+ a .button2:hover{
+    color: #0055b8;
+}
