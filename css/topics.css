@@ -12,7 +12,7 @@
     flex:1;
 }
 .topics .topic .left img{
-    max-width: 100%;
+    max-width: 85%;
 }
 .topics li{
     font-family: "Grandstander", sans-serif;
