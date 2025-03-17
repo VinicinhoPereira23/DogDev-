@@ -1,5 +1,5 @@
 .hero{
-    background-image: url(../images/The-Bugatti-Divo-Key-Facts-and-Figures.webp);
+    background-image: url(./The-Bugatti-Divo-Key-Facts-and-Figures.webp);
     background-size: auto 40rem;
     background-repeat: no-repeat;
     background-position: bottom center;
@@ -28,7 +28,7 @@
 
 @media(width>900px){
     .hero{
-        background-image: url(../images/The-Bugatti-Divo-Key-Facts-and-Figures.webp);
+        background-image: url(./The-Bugatti-Divo-Key-Facts-and-Figures.webp);
         background-size: auto;
     }
     .hero .box{
